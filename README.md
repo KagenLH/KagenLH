@@ -1,5 +1,5 @@
 ## Hi, I'm Kagen.
-I'm a Software Engineer that loves coding because of there being no bounds on how much you can learn and what you can accomplish. I am always learning more and always building something fun with my skills. I'm fascinated by the challenges involved with building applications to scale and the technologies that help to solve them. You can checkout my portfolio <a href="kagenlh.github.io/portfolio" target="_blank" rel="noreferrer">here</a>
+I'm a Software Engineer that loves coding because of there being no bounds on how much you can learn and what you can accomplish. I am always learning more and always building something fun with my skills. I'm fascinated by the challenges involved with building applications to scale and the technologies that help to solve them. You can checkout my portfolio <a href="https://kagenlh.github.io/portfolio" target="_blank" rel="noreferrer">here</a>
 
 ### My Favorite Technologies
 #### <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> <br> Flask 
